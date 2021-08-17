@@ -1,0 +1,261 @@
+[ {
+  "uid" : "bf90c8b01be25c0e",
+  "name" : "test_TC05_Qualifile_Decline",
+  "time" : {
+    "start" : 1629096100893,
+    "stop" : 1629096322858,
+    "duration" : 221965
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "62080105b1b929e0",
+  "name" : "test_TC02_submit_savings",
+  "time" : {
+    "start" : 1629094612317,
+    "stop" : 1629094790697,
+    "duration" : 178380
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "2aa4754857bad78f",
+  "name" : "test_TC06_Qualifile_Review",
+  "time" : {
+    "start" : 1629096322904,
+    "stop" : 1629096536170,
+    "duration" : 213266
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "d04608cbf67487fc",
+  "name" : "test_TC03_Qualifile_Decline",
+  "time" : {
+    "start" : 1629095884888,
+    "stop" : 1629095976416,
+    "duration" : 91528
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "70642c0519aa965d",
+  "name" : "test_TC02_submit_savings",
+  "time" : {
+    "start" : 1629095507010,
+    "stop" : 1629095609746,
+    "duration" : 102736
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "749f2d0ce803541b",
+  "name" : "test_TC05_submit_18month_CD",
+  "time" : {
+    "start" : 1629094948597,
+    "stop" : 1629095006042,
+    "duration" : 57445
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "782f09c97e3bc1e9",
+  "name" : "test_TC03_submit_91day_CD",
+  "time" : {
+    "start" : 1629094790701,
+    "stop" : 1629094911135,
+    "duration" : 120434
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "f99a6d4a584ff34c",
+  "name" : "test_TC08_submit_CrossSell",
+  "time" : {
+    "start" : 1629095204780,
+    "stop" : 1629095356265,
+    "duration" : 151485
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "9e5f6c7a93ea0da4",
+  "name" : "test_TC07_submit_max_product",
+  "time" : {
+    "start" : 1629095162843,
+    "stop" : 1629095204702,
+    "duration" : 41859
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "338e8828bf772760",
+  "name" : "test_TC07_Stepup_Primary_Joint",
+  "time" : {
+    "start" : 1629096536176,
+    "stop" : 1629096784842,
+    "duration" : 248666
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "abf4027330609333",
+  "name" : "test_TC04_Qualifile_Decline",
+  "time" : {
+    "start" : 1629095976419,
+    "stop" : 1629096100890,
+    "duration" : 124471
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "c9188e8673eda93f",
+  "name" : "test_TC04_submit_9month_CD",
+  "time" : {
+    "start" : 1629094911142,
+    "stop" : 1629094948278,
+    "duration" : 37136
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "bce883a491bfa91",
+  "name" : "test_TC01_Auto_Decline",
+  "time" : {
+    "start" : 1629095734061,
+    "stop" : 1629095794452,
+    "duration" : 60391
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "17f91432137097d3",
+  "name" : "test_TC01_save",
+  "time" : {
+    "start" : 1629097439289,
+    "stop" : 1629097505864,
+    "duration" : 66575
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "540b642eb5109b4c",
+  "name" : "test_TC06_submit_valley_direct_savings",
+  "time" : {
+    "start" : 1629095006435,
+    "stop" : 1629095162839,
+    "duration" : 156404
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "b11f6b4fc4c7ff43",
+  "name" : "test_TC09_Stepup_Denied_Primary",
+  "time" : {
+    "start" : 1629096987717,
+    "stop" : 1629097091597,
+    "duration" : 103880
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "300959bea51fd02",
+  "name" : "test_TC10_Manual_Review",
+  "time" : {
+    "start" : 1629097091603,
+    "stop" : 1629097314805,
+    "duration" : 223202
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "98431c8fc8c2cb42",
+  "name" : "test_TC02_Auto_Decline",
+  "time" : {
+    "start" : 1629095794549,
+    "stop" : 1629095884880,
+    "duration" : 90331
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "1fc1770204870c4d",
+  "name" : "test_TC02_resume",
+  "time" : {
+    "start" : 1629097392371,
+    "stop" : 1629097439163,
+    "duration" : 46792
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "50ec8f09f7d8b208",
+  "name" : "test_TC08_Stepup_Primary",
+  "time" : {
+    "start" : 1629096784848,
+    "stop" : 1629096987505,
+    "duration" : 202657
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "c96b0feadcab4f51",
+  "name" : "test_TC01_submit_checking",
+  "time" : {
+    "start" : 1629095356269,
+    "stop" : 1629095506458,
+    "duration" : 150189
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "24cd14dd1128a9bb",
+  "name" : "test_TC01_save",
+  "time" : {
+    "start" : 1629097314821,
+    "stop" : 1629097392363,
+    "duration" : 77542
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "d3437bf412390e6a",
+  "name" : "test_TC03_submit_savings_with_cross_sell",
+  "time" : {
+    "start" : 1629095609750,
+    "stop" : 1629095734017,
+    "duration" : 124267
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "8feccd8c3343da3e",
+  "name" : "test_TC01_submit_checking",
+  "time" : {
+    "start" : 1629094449122,
+    "stop" : 1629094612308,
+    "duration" : 163186
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "4dd05c8cb90bf513",
+  "name" : "test_TC03_cancel_in_sales_flow",
+  "time" : {
+    "start" : 1629097539177,
+    "stop" : 1629097610806,
+    "duration" : 71629
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "72be1c583713940b",
+  "name" : "test_TC02_cancel",
+  "time" : {
+    "start" : 1629097505868,
+    "stop" : 1629097539172,
+    "duration" : 33304
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

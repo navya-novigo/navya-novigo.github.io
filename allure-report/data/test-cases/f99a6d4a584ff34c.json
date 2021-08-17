@@ -1,0 +1,75 @@
+{
+  "uid" : "f99a6d4a584ff34c",
+  "name" : "test_TC08_submit_CrossSell",
+  "fullName" : "tests.test_TS01_submit_new_application.TestETEFlow#test_TC08_submit_CrossSell",
+  "historyId" : "b8b4bcca9c7fb07fa8f73659da9c8fbf",
+  "time" : {
+    "start" : 1629095204780,
+    "stop" : 1629095356265,
+    "duration" : 151485
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c240d921d7b7648f",
+      "name" : "Test Pass",
+      "source" : "c240d921d7b7648f.png",
+      "type" : "image/png",
+      "size" : 66054
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_TS01_submit_new_application"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestETEFlow"
+  }, {
+    "name" : "host",
+    "value" : "LAP00102"
+  }, {
+    "name" : "thread",
+    "value" : "29752-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_TS01_submit_new_application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f99a6d4a584ff34c.json",
+  "parameterValues" : [ ]
+}

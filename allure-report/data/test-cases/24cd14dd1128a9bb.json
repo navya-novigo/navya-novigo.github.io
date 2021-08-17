@@ -1,0 +1,75 @@
+{
+  "uid" : "24cd14dd1128a9bb",
+  "name" : "test_TC01_save",
+  "fullName" : "tests.test_TS04_verify_save_resume.TestSaveResume#test_TC01_save",
+  "historyId" : "d59de26b2e077015d3a961480e648a01",
+  "time" : {
+    "start" : 1629097314821,
+    "stop" : 1629097392363,
+    "duration" : 77542
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "452d5cbbe8bb93af",
+      "name" : "Test Pass",
+      "source" : "452d5cbbe8bb93af.png",
+      "type" : "image/png",
+      "size" : 53666
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_TS04_verify_save_resume"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSaveResume"
+  }, {
+    "name" : "host",
+    "value" : "LAP00102"
+  }, {
+    "name" : "thread",
+    "value" : "29752-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_TS04_verify_save_resume"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "24cd14dd1128a9bb.json",
+  "parameterValues" : [ ]
+}

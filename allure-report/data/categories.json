@@ -1,0 +1,95 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "NameError: name 'exception' is not defined",
+      "children" : [ {
+        "name" : "test_TC04_submit_9month_CD",
+        "uid" : "c9188e8673eda93f",
+        "parentUid" : "bcfcdcc305e9e65857d65576c015f328",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629094911142,
+          "stop" : 1629094948278,
+          "duration" : 37136
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_TC05_submit_18month_CD",
+        "uid" : "749f2d0ce803541b",
+        "parentUid" : "bcfcdcc305e9e65857d65576c015f328",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629094948597,
+          "stop" : 1629095006042,
+          "duration" : 57445
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_TC07_submit_max_product",
+        "uid" : "9e5f6c7a93ea0da4",
+        "parentUid" : "bcfcdcc305e9e65857d65576c015f328",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629095162843,
+          "stop" : 1629095204702,
+          "duration" : 41859
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_TC01_submit_checking",
+        "uid" : "c96b0feadcab4f51",
+        "parentUid" : "bcfcdcc305e9e65857d65576c015f328",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629095356269,
+          "stop" : 1629095506458,
+          "duration" : 150189
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_TC02_resume",
+        "uid" : "1fc1770204870c4d",
+        "parentUid" : "bcfcdcc305e9e65857d65576c015f328",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629097392371,
+          "stop" : 1629097439163,
+          "duration" : 46792
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bcfcdcc305e9e65857d65576c015f328"
+    }, {
+      "name" : "NameError: name 'pytest' is not defined",
+      "children" : [ {
+        "name" : "test_TC01_Auto_Decline",
+        "uid" : "bce883a491bfa91",
+        "parentUid" : "fe2b91750196d26e0c0400f37ed3fee5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629095734061,
+          "stop" : 1629095794452,
+          "duration" : 60391
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fe2b91750196d26e0c0400f37ed3fee5"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

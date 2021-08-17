@@ -1,0 +1,75 @@
+{
+  "uid" : "4dd05c8cb90bf513",
+  "name" : "test_TC03_cancel_in_sales_flow",
+  "fullName" : "tests.test_TS05_verify_save_cancel.TestSaveCancel#test_TC03_cancel_in_sales_flow",
+  "historyId" : "fec07490a9559c563f3b3054618a35a6",
+  "time" : {
+    "start" : 1629097539177,
+    "stop" : 1629097610806,
+    "duration" : 71629
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4fc2aafdb87200ce",
+      "name" : "Test Pass",
+      "source" : "4fc2aafdb87200ce.png",
+      "type" : "image/png",
+      "size" : 32507
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_TS05_verify_save_cancel"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSaveCancel"
+  }, {
+    "name" : "host",
+    "value" : "LAP00102"
+  }, {
+    "name" : "thread",
+    "value" : "29752-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_TS05_verify_save_cancel"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4dd05c8cb90bf513.json",
+  "parameterValues" : [ ]
+}

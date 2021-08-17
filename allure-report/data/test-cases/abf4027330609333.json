@@ -1,0 +1,75 @@
+{
+  "uid" : "abf4027330609333",
+  "name" : "test_TC04_Qualifile_Decline",
+  "fullName" : "tests.test_TS03_verify_alloy_outcomes.TestAlloyOutcomes#test_TC04_Qualifile_Decline",
+  "historyId" : "91c9a67dadb0969ccb809c132f19d994",
+  "time" : {
+    "start" : 1629095976419,
+    "stop" : 1629096100890,
+    "duration" : 124471
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2ab59fcbb3543703",
+      "name" : "Test Pass",
+      "source" : "2ab59fcbb3543703.png",
+      "type" : "image/png",
+      "size" : 32340
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_TS03_verify_alloy_outcomes"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAlloyOutcomes"
+  }, {
+    "name" : "host",
+    "value" : "LAP00102"
+  }, {
+    "name" : "thread",
+    "value" : "29752-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_TS03_verify_alloy_outcomes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "abf4027330609333.json",
+  "parameterValues" : [ ]
+}
